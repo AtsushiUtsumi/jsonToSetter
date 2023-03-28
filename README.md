@@ -1,0 +1,2 @@
+# jsonToSetter
+jsonファイルから味気ないhtmlコードseleniumのセッタやテストコードを生成
